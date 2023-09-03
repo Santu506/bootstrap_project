@@ -1,5 +1,5 @@
 body{
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
 }
 .first_div{
     width: 100%;
@@ -43,4 +43,17 @@ body{
     width: 90%;
     margin-left: 5%;
     margin-top: 10px;
+}
+.row1{
+    /* width: 100%; */
+    gap: 2%;
+    word-wrap: break-word;
+    background-color: azure;
+
+}
+.col{
+    width:33%;
+    
+    border: 1px solid black;
+    border-radius: 3px;
 }
